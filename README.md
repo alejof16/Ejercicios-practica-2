@@ -1,1 +1,1 @@
-# Ejercicios-practica-2
+# Ejercicios de programacion 
