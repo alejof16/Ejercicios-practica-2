@@ -6,7 +6,7 @@ tener una version de Python 16.1
 tener cualquier editor de codigo para abrir los ejercicios
 
 # Lo que debe realizar  cada ejercicio
- #Ejercicio 1.
+ # Ejercicio 1.
 Escriba una función que retorne la suma de una serie de X número repetido hasta el n-ésimo término.
 
 # Ejercicio 2.
