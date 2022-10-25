@@ -16,11 +16,11 @@ siguientes condiciones:
 2. Si el número es mayor que 600, no se incluye en la salida.
 3. Si el número es mayor que 1000, detenga el procesamiento y retorne el resultado.
 
-#Ejercicio 3.
+# Ejercicio 3.
 Dada una lista de cualquier longitud de entrada, escriba una función para agrupar los elementos similares en una matriz
 de salida (no importa el orden).
 
-#Ejercicio 4.
+# Ejercicio 4.
 En un negocio reciben periódicamente productos para la venta, se requiere desarrollar un programa de consola (o
 terminal) que cumpla con los siguientes requerimientos:
 1. Se requiere organizar el inventario en los siguientes grupos: dairy, cleaning y grain.
